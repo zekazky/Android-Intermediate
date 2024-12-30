@@ -17,4 +17,4 @@ Repository ini adalah submission untuk kelas **Android Intermediate** di Dicodin
 - **Material Design** untuk UI/UX
 
 ---
-💡 Proyek ini dibuat dengan cinta dan semangat belajar. Selamat menjelajahi! 🌟
+💡 Proyek ini dibuat dengan cinta 🌟

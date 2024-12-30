@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <string name="app_name">Postify</string>
+        <string name="signup">Pendaftaran</string>
+        <string name="login">Masuk</string>
+        <string name="message_welcome_page">Mau berbagi cerita, curhat, atau mengungkapkan perasaan? Lakukan di Dicoding Story!</string>
+        <string name="title_welcome_page">Selamat datang di Dicoding Story!</string>
+        <string name="title_signup_page">Lengkapi informasi kamu di bawah ini</string>
+
+        <string name="email">Email</string>
+        <string name="password">Kata Sandi</string>
+        <string name="message_login_page">Masukkan informasi kamu dulu</string>
+        <string name="title_login_page">Siap untuk berbagi cerita?</string>
+        <string name="name">Nama</string>
+        <string name="message_main_page">Selamat datang di Dicoding Story</string>
+        <string name="greeting">Halo</string>
+        <string name="logout">Keluar</string>
+        <string name="galeri">Galeri</string>
+        <string name="kamera">Kamera</string>
+        <string name="deskripsi">Deskripsi</string>
+        <string name="upload">Unggah</string>
+        <string name="language">Bahasa</string>
+        <string name="refresh">Segarkan</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">peta</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analis</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_failed">Gambar gagal di inisialisasi. Lihat log untuk melihat detail eror</string>
+    <string name="tflitevision_is_not_initialized_yet">tfLiteVision belum di inisialisasi</string>
+    <string name="translate">Translate ke Bahasa Inggris</string>
+    <string name="downloading_model_fail">Error</string>
+    <string name="scan">Scan\n</string>
+</resources>
